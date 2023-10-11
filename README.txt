@@ -6,3 +6,4 @@ If you want to compare different responses of the system before and after correc
 To check some dynamic properties such as overshoot and peak time of your system, click 'Time Domain Analyze' and 'TDA(after correction)' to display origin system properties and that after correction respectively.
 I also developed a practical option for you, which allows you to generate a series lead correction network satisfying your requirements. After you entered 'Speed Error','cut-off freq' and 'phase margin', click 'Generate correction Net. and verify', new comparations will be shown in two left windows.
 After the generation, you could still click the 'TDA(after correction)' to observe dynamic properties of corrected system.
+[Here is the main UI, Just try it!](https://github.com/fuingcrazy/Correction-Network-GUI-with-MATLAB/blob/main/mainUI.png)
